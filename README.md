@@ -29,7 +29,7 @@ It simulates a **sales and profitability analysis** with dynamic KPIs, interacti
 - Export to PDF for sharing
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](assets/dashboard-preview.png)
+![Dashboard Screenshot](assets/dashboard-preview.jpeg)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
