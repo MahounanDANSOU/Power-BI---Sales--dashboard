@@ -40,6 +40,7 @@ It simulates a **sales and profitability analysis** with dynamic KPIs, interacti
 July 2025
 
 ## 📌 Author
-**[Ton Nom]** – Data Enthusiast | Power BI Learner
+**Mike DANSOU** – Data Enthusiast | Power BI Learner
 
 ---
+
