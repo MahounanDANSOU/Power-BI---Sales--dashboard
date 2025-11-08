@@ -29,7 +29,7 @@ It simulates a **sales and profitability analysis** with dynamic KPIs, interacti
 - Export to PDF for sharing
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Power-BI---Sales--dashboard/dashboard-preview.jpeg)
+![Dashboard Screenshot]([Power-BI---Sales--dashboard/dashboard-preview.jpeg)](https://github.com/MahounanDANSOU/Power-BI---Sales--dashboard/blob/main/dashboard-preview.jpeg)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
@@ -43,5 +43,6 @@ July 2025
 **Mike DANSOU** – Data Enthusiast | Power BI Learner
 
 ---
+
 
 
